@@ -1,5 +1,5 @@
  
-CREATE TABLE client_master
+CREATE TABLE product_master
 ( product_no varchar() PRIMARY KEY,
 description varchar(),
 profit_percent numeric(),
